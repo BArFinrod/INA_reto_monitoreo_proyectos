@@ -102,7 +102,7 @@ if bitacora_txt!='':
     #%%
     # bitacora_txt = "Han pasado 4 días desde el inicio y el avacen es solo del 5%. Por otro lado, se corre el riesgo de que la actividad sea paralizada en 1 semana."
 
-    key_ = "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"
+    key_ = "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"
 
     def _get_description(texto):
         client = OpenAI(api_key = key_)
